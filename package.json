@@ -21,7 +21,7 @@
     "standard": "^10.0.3"
   },
   "dependencies": {
-    "soap": "^0.23.0"
+    "soap": "^0.25.0"
   },
   "jest": {
     "verbose": true,
