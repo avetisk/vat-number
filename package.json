@@ -15,7 +15,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "babel-minify": "^0.2.0",
+    "babel-minify": "^0.4.3",
     "jest": "^23.1.0",
     "snazzy": "^7.0.0",
     "standard": "^10.0.3"
