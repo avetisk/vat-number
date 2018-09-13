@@ -25,6 +25,8 @@ const checkedVat = await getVatNumberInfos(vatNumber)
 }
 ```
 
+N.B: will throw if VAT number is invalid.
+
 ### How to contribute
 
 * Clone the repository `git clone git@github.com:adriantombu/vat-number.git`
